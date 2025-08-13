@@ -29,6 +29,7 @@ Predict the **efficiency** of solar panels using various sensor readings and met
 - Pandas & NumPy
 - Scikit-learn
 - XGBoost
+- CatBoost
 
 ---
 
